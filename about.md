@@ -12,4 +12,4 @@ Interests include C++, Java, Python, Machine Learning, Software Development and 
 
 ### Contact me
 
-[email@domain.com](mailto:jrzavisa@me.com)
+[jrzavisa@me.com](mailto:jrzavisa@me.com)
