@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Science Major at Middle Tennessee State University
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interests include C++, Java, Python, Machine Learning, Software Development and Engineering, Cryptography, etc.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:jrzavisa@me.com)
