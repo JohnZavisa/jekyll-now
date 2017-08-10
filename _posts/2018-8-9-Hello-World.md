@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my blog! 
 ---
 
-Welcome to my blog! This is a test post.
+This is a test and my first post.
 
 ![_config.yml]({{ site.baseurl }}/images/binary-code-computer-code-pattern-2.png)
 
