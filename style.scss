@@ -17,8 +17,12 @@ html {
   font-size: 100%;
 }
 
-body {
-	background: $white;
+   body {
+  background: $white;
+  background-image: url(../img/bgrnd2.png);
+  color: #ececec;
+  padding: 0;
+  margin: 0;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
