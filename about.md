@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Computer Science Major at Middle Tennessee State University
+Software Developer and Data Scientist at Autoflyte. Computer Science Major at Middle Tennessee State University
 
 ### More Information
 
