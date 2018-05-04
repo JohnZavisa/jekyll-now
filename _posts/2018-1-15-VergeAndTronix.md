@@ -7,7 +7,7 @@ title: Verge (XVG) and Tronix (TRX)
 
 
 Verge and Tronix are two <1$ altcoins that have a lot of potential to grow. As of right now, XVG fluctuates between .11$ and .14$. 
-I think XVG has potential,because it is one of the first coins that allow on-click anonymity, meaning you can choose when to hide a 
+I think XVG has potential, because it is one of the first coins that allow on-click anonymity, meaning you can choose when to hide a 
 transaction. This is done with the newest rollout called Wraith Protocol by the Verge team. It hit .30$ in a past pump before the release,
 and with the long awaited release of Wraith, 2018 should be an exciting year for Verge. Not to mention, John McAfee recently tweeted about it, and when a whale gives a cheap coin attention, they tend to rise pretty quick, even if it's temporary. 
 
