@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software Developer and Data Scientist at AUTOFLYTE. Computer Science Major at Middle Tennessee State University
+Software Engineer at AUTOFLYTE. Computer Science Major at Middle Tennessee State University
 
 ### More Information
 
