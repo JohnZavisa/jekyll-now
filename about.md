@@ -8,7 +8,7 @@ Software Engineer at AUTOFLYTE. Computer Science Major at Middle Tennessee State
 
 ### More Information
 
-Interests include Computer Programming, Machine Learning, Software Development and Engineering, Cryptography, etc.
+Interests include Computer Programming, Algorithm design, Machine Learning, Software Development and Engineering, Cryptography, etc.
 
 ### Contact me
 
